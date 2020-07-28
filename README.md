@@ -2,6 +2,6 @@
 
 Python Summary for Neuromatch Academy 2020
 
-Content source: NMA tutorials (github.com/NeuromatchAcademy/course-content/)
+Content source: NMA tutorials [github.com/NeuromatchAcademy/course-content/](github.com/NeuromatchAcademy/course-content/)
 
-Content creators: pod019-evasive-seals (repo: github.com/helenxhou)
+Content creators: pod019-evasive-seals (repo: [github.com/helenxhou](github.com/helenxhou))
