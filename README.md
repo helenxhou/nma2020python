@@ -1,6 +1,5 @@
-# nma2020python
+# Python Summary for Neuromatch Academy 2020
 
-Python Summary for Neuromatch Academy 2020
 
 |   | Run | View |
 | - | --- | ---- |
